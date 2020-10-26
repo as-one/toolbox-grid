@@ -12,6 +12,7 @@
 }
 
 .cli__html, .cli__css {
+  overflow: scroll;
   width: 50vw;
   padding: 15px 20px;
   font-size: 15px;
