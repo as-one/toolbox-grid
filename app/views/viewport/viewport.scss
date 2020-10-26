@@ -72,11 +72,11 @@
     &-remove {
       position: absolute;
       top: 0;
-      right: 0;
+      right: -4px;
       z-index: 100;
-      width: 25px;
+      width: 27px;
       height: 25px;
-      padding: 0;
+      padding: 0 2px 0 0;
       border-radius: 0;
       background-color: var(--color_pink50);
       font-size: 20px;
