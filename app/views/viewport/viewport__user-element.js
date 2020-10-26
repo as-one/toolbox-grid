@@ -44,26 +44,15 @@ class ViewportUserElement {
   createUserElement(props) {
 
     // Colors
-    // let colors = [
-    //   'rgba(255, 34, 34, 0.5)', // red
-    //   'rgba(255, 34, 255, 0.5)', // orange
-    //   'rgba(34, 34, 255, 0.5)', // yellow
-    //   'rgba(34, 255, 255, 0.5)', // green
-    //   'rgba(34, 255, 34, 0.5)', // cyan
-    //   'rgba(255, 255, 34, 0.5)', // blue
-    //   'rgba(255, 34, 34, 0.5)' // violet
-    // ];
     let colors = [
-      // 'rgb(255,0,84)', // pink
-      // 'rgb(247,223,46)' // yellow
+      'rgba(255,255,255,0.05)'
     ];
 
     // Set user element (parent)
     let userElement = document.createElement('div');
     userElement.classList.add(this.classViewportUserElement);
     userElement.style.gridArea = props.gridArea;
-    // userElement.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
-    // userElement.style.borderColor = colors[Math.floor(Math.random() * colors.length)];
+    userElement.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
     props.parent.append(userElement);
 
     /////////
