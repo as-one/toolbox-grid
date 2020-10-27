@@ -21,7 +21,7 @@
 
 ## Quick Start
 
-Check our latest release accessing the tool: <a href="https://as-one.github.io/toolbox-grid/">As One - Toolbox Grid</a>
+Check our latest release accessing the tool: <a href="https://as-one.github.io/toolbox-grid/">As One - Toolbox Grid</a>.
 
 ## Overview
 
