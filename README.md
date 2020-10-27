@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/as-one/starter-app">
-    <img src="https://raw.githubusercontent.com/as-one/toolbox-grid/master/logo-toolbox-grid.png" alt="As One - Toolbox Grid" width="300" height="200">
+    <img src="https://raw.githubusercontent.com/as-one/toolbox-grid/main/logo-toolbox-grid.png" alt="As One - Toolbox Grid" width="300" height="200">
   </a>
 </p>
 
